@@ -5,5 +5,7 @@ public class Student {
 	private Integer stuId;
 	private String stuName;
 	private String stuAddress;
+	
+	private Double studentSalary;
 
 }
