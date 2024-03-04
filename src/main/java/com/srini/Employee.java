@@ -2,9 +2,8 @@ package com.srini;
 
 public class Employee {
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
-	}
+	private Integer empId;
+	private String empName;
+	private Integer empAge;
 
 }
